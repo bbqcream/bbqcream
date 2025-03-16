@@ -2,9 +2,6 @@
 
 <div align="center">
   <h1>BBQCREAM 마시써</h1>
-</div>
-<br>
-<div align="center">
   <h3>Languages that use</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -17,8 +14,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-<div align="center">
   <h3>TOP LANG</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=bbqcream" />
 </div>
