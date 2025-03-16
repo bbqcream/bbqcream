@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
-  <h3>BBQCREAM 마시써</h3>
-</div><br>
+  <h1>BBQCREAM 마시써</h1>
+</div>
+<br>
 <div align="center">
-  <h4>Languages that use</h4>
+  <h3>Languages that use</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -18,6 +19,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 <div align="center">
-  <h4>TOP LANG</h4>
+  <h3>TOP LANG</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=bbqcream" />
 </div>
