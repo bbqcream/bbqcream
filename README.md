@@ -1,7 +1,6 @@
-## Hi there 👋
+## 앙버터생크림지점 점장 비비큐크림입니다.
 
 <div align="center">
-  <h1>앙버터생크림지점 점장 비비큐크림입니다.</h1>
   <h3>Languages that use</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
