@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbqcream"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbqcream&layout=compact"/>
 </div>
